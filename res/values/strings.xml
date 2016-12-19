@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (C) 2013 Google Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+
+<resources>
+    <string name="game_story_title">Game Story</string>
+	<string name="game_story">The game is about defending the NJIT campus against a monster invasion. You have to physically walk around in campus to search for the monsters in the game. Then, you have to destroy the monsters hiding throughout the NJIT campus to gain points.</string>
+	<string name="how_to_title">How to play</string>
+	<string name="how_to_1">1. Click the "Play" button to start searching for monsters.</string>
+	<string name="how_to_2">2. Walk to the location of nearby fire power to increase your power. The fire power is used to hit the monster when you find it. You can find monsters only near NJIT campus.</string>
+	<string name="how_to_3">3. When you find a monster on the map, start tilting the phone to move the blue round target onto the monster and touch the screen anywhere to throw fire at the monster.</string>
+	<string name="how_to_4">4. When fire hits the monster, it gets hurt and escapes to a new location. The monster can escape for two times, but the third hit will completely destroy it.</string>
+	<string name="how_to_5">5. To track the escaped monster, click on the "Hints" button which will provide the blood trail of the monster.</string>
+	<string name="how_to_6">6. Check the achievements screen to find out how to unlock the achievement.</string>
+	<string name="how_to_7">7. Check the leaderboards screen to find who is leading at each level. In the beginning, you are in level 1. As you complete each level described in achievements, your score will be posted to next level.</string>
+	<string name="tips_title">Tips</string>
+	<string name="tip_1">1. Enable monster alerts in the settings screen to perform monster search in the background. This helps in getting alerts when the monster is found while the screen is OFF, which saves the phone battery.</string>
+	<string name="tip_2">2. Click on the sentinel to place it at your current location. The sentinel alerts you, independent of your location, when it detects the monster in its range. </string>
+	<string name="tip_3">3. You receive more score points when the monster is destroyed. To destroy it, simply track it and hit it three times. Enable GPS and WiFi in phone settings to find monsters more quickly.</string>
+	<string name="tip_4">4. To increase the chance of hitting the monster, try to throw fire when the monster is between the player avatar and the blue target. To improve the game skill, you can practice using practice hunt feature from game map screen settings.</string>
+	<string name="tip_5">5. Each time you hit the monster, you will receive a certain amount of bonus fire power.</string>
+	<string name="tip_6">6. Unlock the genie achievement listed after level 2 to get more detailed info on where the monster escaped.</string>
+	<string name="maps_link_title">WiFi Map</string>
+	<string name="map_link_text">We try to improve the WiFi connectivity on campus as a by-product of the game. Here is the link of the daily updated WiFi coverage map as experienced by the players:</string>
+	<string name="map_link"><a href="http://mcsense.njit.edu:10080/PlaysWEB/pages/WiFiMap.jsp">WiFi Map</a></string>
+	<string name="contact_title">Contact</string>
+	<string name="contact">mt57@njit.edu</string>
+    
+    <string name="game_not_available">Please sign in with any Google Plus account to play.</string>
+    <string name="submit_user_consent">You must have received the game registration details to the signed in email account. Please complete the registration to start playing. If you did not receive the registration email, please contact: mt57@njit.edu .</string>
+    <string name="practice">Practice Hunt</string>
+    <string name="praticeWalk">Follow the blood trail to hunt the Monster!!</string>
+    <string name="signing_in">Signing in with Google</string>
+    <string name="signing_out">Signing out</string>
+    <string name="app_name">Monsters vs NJIT</string>
+    <string name="title_activity_main">Monster Vs. NJIT</string>
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leaderboards.</string>
+    <string name="easy_mode_explanation">You\'re hunting skills are great!! Track more dangerous monsters.</string>
+    <string name="hard_mode_explanation">You\'re playing in hard mode, so you only got half the score you requested! Isn\'t this game hard?</string>
+    <string name="achievement_prime_toast_text">Prime score!</string>
+    <string name="achievement_arrogant_toast_text">Arrogant (requested maximum score)!</string>
+    <string name="achievement_humble_toast_text">Humble! (requested 0 score)</string>
+    <string name="achievement_leet_toast_text">L33t! (got 1337 score)</string>
+    <string name="achievement">Achievement</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="what_score_do_you_deserve">What score do you think you deserve?</string>
+    <string name="initial_input">0000</string>
+    <string name="digit0"> 0 </string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="clear">Clear</string>
+    <string name="ok">OK</string>
+    <string name="next">Keep Hunting</string>
+    <string name="choose_difficulty">Save NJIT from monsters invasion, if you can!</string>
+    <string name="easy">Play</string>
+    <string name="hard">Hard</string>
+    <string name="see_your_progress">See your progress</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leaderboards</string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="tilt_phone">Tilt to target the monster.</string>
+    <string name="touch_phone">Touch anywhere to throw fire toward target.</string>
+    <string name="touch_genie">Touch genie to find where monster escaped.</string>
+    <string name="sentinel_toast">Sentinel alerts you when the monster is found near its location.</string>
+    <string name="monster_hit">Monster is hit and escaped to new location!!</string>
+    <string name="sign_out">Sign out</string>
+    <string name="you_win">Great shot! Your score is:</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About Game</string>
+    <string name="alien_alert">Enable Monster Alerts</string>
+    <string name="alienbusted">Hunt Monster</string>
+    <string name="monster_destroyed">Monster destroyed completely!!</string>
+    <string name="sentinel">Sentinel</string>
+    <string name="player_marker_text">You</string>
+    <string name="target_marker_text">Target</string>
+    <string name="fire_marker_text">Fire</string>
+    <string name="hints">Hints</string>
+    <string name="follow_hint">Follow the hint!!</string>
+    <string name="no_power">No power to destroy the monster!! Try collecting more power!!</string>
+    <color name="gray">#C0C0C0</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#008000</color>
+    <color name="lime">#00FF00</color>
+    <string name="choose_player">Choose any player avatar below:</string>
+    <string name="player_avatar_1">Player Avatar 1</string>
+    <string name="player_avatar_2">Player Avatar 2</string>
+    <string name="player_avatar_3">Player Avatar 3</string>
+    <string name="player_avatar_4">Player Avatar 4</string>
+    <string name="player_avatar_5">Player Avatar 5</string>
+    <string name="player_avatar_6">Player Avatar 6</string>
+    <string name="player_avatar_7">Player Avatar 7</string>
+</resources>

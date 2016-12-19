@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	    
+	    <TextView android:text="@string/game_story_title" android:id="@+id/textView1" 
+	        android:textSize="22sp"
+            android:textStyle="bold"
+            android:padding="20dp"
+            android:textColor="#ffffff"
+            android:background="#d54937"
+	        android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/game_story" android:id="@+id/textView2" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_title" android:id="@+id/textView3"
+	        android:textSize="22sp"
+            android:textStyle="bold"
+            android:padding="20dp"
+            android:textColor="#ffffff"
+            android:background="#d54937" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_1" android:id="@+id/textView4" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_2" android:id="@+id/textView5" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_3" android:id="@+id/textView6" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_4" android:id="@+id/textView7" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_5" android:id="@+id/textView8" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_6" android:id="@+id/textView9" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/how_to_7" android:id="@+id/textView91" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tips_title" android:id="@+id/textView10"
+	        android:textSize="22sp"
+            android:textStyle="bold"
+            android:padding="20dp"
+            android:textColor="#ffffff"
+            android:background="#d54937" android:layout_width="match_parent" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_1" android:id="@+id/textView11" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_2" android:id="@+id/textView12" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_3" android:id="@+id/textView13" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_4" android:id="@+id/textView14" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_5" android:id="@+id/textView141" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/tip_6" android:id="@+id/textView142" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/maps_link_title" android:id="@+id/textView15"
+	        android:textSize="22sp"
+            android:textStyle="bold"
+            android:padding="20dp"
+            android:textColor="#ffffff"
+            android:background="#d54937" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/map_link_text" android:id="@+id/textView16" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/map_link" android:id="@+id/map_link" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/contact_title" android:id="@+id/textView18"
+	        android:textSize="22sp"
+            android:textStyle="bold"
+            android:padding="20dp"
+            android:textColor="#ffffff"
+            android:background="#d54937" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content"></TextView>
+	    <TextView android:text="@string/contact" android:id="@+id/textView19" android:padding="5dp" android:autoLink="web" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+	
+	</LinearLayout>
+</ScrollView>
